@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋 I am Dipali Pawar, 💻 Self-taught, Passion-driven, Machine Learning and AI Researcher. I thrive on exploring the unknown and turning complex problems into actionable insights. Whether it’s training cutting-edge models or diving deep into research, I’m always up for the challenge. 
+🛠️ Crafting solutions that make AI smarter and scalable
+📝 Research papers & projects shaping the future of AI
+☕ Code? Sometimes messy, but always gets the job done
 <!--
 **Dipali0209/Dipali0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
